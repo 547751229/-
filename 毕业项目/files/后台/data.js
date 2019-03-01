@@ -1,0 +1,49 @@
+﻿$axure.loadCurrentPage({
+  "url":"后台.html",
+  "generationDate":new Date(1386236690658.45),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"aaaaaaaa"],
+  "page":{
+    "packageId":"b83817bb7d4746b99959cbd06c555a2c",
+    "type":"Axure:Page",
+    "name":"后台",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"用例 1",
+            "isNewIfGroup":false,
+            "actions":[{
+                "action":"linkWindow",
+                "description":"在 当前窗口 打开 登录",
+                "target":{
+                  "targetType":"page",
+                  "url":"登录_1.html",
+                  "includeVariables":true},
+                "linkType":"current"}]}]}},
+    "diagram":{
+      "objects":[]}},
+  "masters":{
+},
+  "objectPaths":{
+}});

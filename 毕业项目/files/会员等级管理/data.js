@@ -1,0 +1,3283 @@
+﻿$axure.loadCurrentPage({
+  "url":"会员等级管理.html",
+  "generationDate":new Date(1386236697364.83),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"aaaaaaaa"],
+  "page":{
+    "packageId":"59248bdb3d104452b80f96c31674bb28",
+    "type":"Axure:Page",
+    "name":"会员等级管理",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"ff2015acd40d429096545ace47184f09",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":28,
+              "y":20},
+            "size":{
+              "width":102,
+              "height":26},
+            "cornerRadiusTopLeft":"8"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"269dc5bcaf3941aa89a55667ab6d5cbc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":28,
+                  "y":20},
+                "size":{
+                  "width":102,
+                  "height":26},
+                "cornerRadiusTopLeft":"8"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/会员等级管理/u0.png"}},
+{
+          "id":"b78c2de27b13428f8758bf1791d947e6",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":130,
+              "y":41},
+            "size":{
+              "width":660,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/会员等级管理/u2_line.png"}},
+{
+          "id":"822d881b9c574a05804555d2bc859f27",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":28,
+              "y":123},
+            "size":{
+              "width":762,
+              "height":187}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"bothAsNeeded",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"a57fef59632a4236abac1dff3b5b9a15",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"c2c84ce7a4e14a2abccefe6438110286",
+                  "label":"",
+                  "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                  "type":"table",
+                  "styleType":"table",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "size":{
+                      "width":740,
+                      "height":150}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"851f524bae9841e9a2144360a47395fe",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "size":{
+                          "width":53,
+                          "height":32},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"77b2d317559b44a1990143ef38f5c118",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "size":{
+                              "width":53,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u5.png"}},
+{
+                      "id":"bbd985e7ad5e43f79b32d839c47ccab7",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFEDF5FF},
+                        "location":{
+                          "x":0,
+                          "y":32},
+                        "size":{
+                          "width":53,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"4d7f09b89f6247019a49488c3827c7b9",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFEDF5FF},
+                            "location":{
+                              "x":0,
+                              "y":32},
+                            "size":{
+                              "width":53,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u15.png"}},
+{
+                      "id":"e14dc92a2b3c4d91afd49703463b514d",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":0,
+                          "y":80},
+                        "size":{
+                          "width":53,
+                          "height":34},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"7c12478e0c344dceb356821fa92fbc8d",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":0,
+                              "y":80},
+                            "size":{
+                              "width":53,
+                              "height":34},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u25.png"}},
+{
+                      "id":"d305ac41999b443e8deadf2b88a0fb16",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000,
+                          "opacity":1},
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":53,
+                          "y":0},
+                        "size":{
+                          "width":246,
+                          "height":32},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"b427cdd2a7234de4982a849e4765535f",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":53,
+                              "y":0},
+                            "size":{
+                              "width":246,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/公告列表/u9.png"}},
+{
+                      "id":"63228ae374af4608a3fa029b87e28fe5",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000,
+                          "opacity":1},
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFEDF5FF},
+                        "location":{
+                          "x":53,
+                          "y":32},
+                        "size":{
+                          "width":246,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"dd138e10c7444475b22764bac1a9f65d",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFEDF5FF},
+                            "location":{
+                              "x":53,
+                              "y":32},
+                            "size":{
+                              "width":246,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u17.png"}},
+{
+                      "id":"36470d16439940a8b2c3175ca8e7f13b",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000,
+                          "opacity":1},
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":53,
+                          "y":80},
+                        "size":{
+                          "width":246,
+                          "height":34},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"2c04861447f34867ba37773258f530d1",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":53,
+                              "y":80},
+                            "size":{
+                              "width":246,
+                              "height":34},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u27.png"}},
+{
+                      "id":"f27dd420f70e43b984caf6951fc4cc5e",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFEDF5FF},
+                        "location":{
+                          "x":0,
+                          "y":114},
+                        "size":{
+                          "width":53,
+                          "height":36},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"23113c0c51024d04804a34f157c01bd6",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFEDF5FF},
+                            "location":{
+                              "x":0,
+                              "y":114},
+                            "size":{
+                              "width":53,
+                              "height":36},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u35.png"}},
+{
+                      "id":"02889065cb144e549e8c52c6754cc9e0",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000,
+                          "opacity":1},
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFEDF5FF},
+                        "location":{
+                          "x":53,
+                          "y":114},
+                        "size":{
+                          "width":246,
+                          "height":36},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"274d8c31fd7e428cbc713ba1f78d1b92",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFEDF5FF},
+                            "location":{
+                              "x":53,
+                              "y":114},
+                            "size":{
+                              "width":246,
+                              "height":36},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u37.png"}},
+{
+                      "id":"aa7ff6bf837e4a3b964d8a528e468ec6",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":299,
+                          "y":0},
+                        "size":{
+                          "width":155,
+                          "height":32},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"a1b0cd765be54292bb259b9fdde67fe2",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":299,
+                              "y":0},
+                            "size":{
+                              "width":155,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u9.png"}},
+{
+                      "id":"90da0e80d2524bcbab251f64941c468f",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFEDF5FF},
+                        "location":{
+                          "x":299,
+                          "y":32},
+                        "size":{
+                          "width":155,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"4a37c260376f4d87ae844153959af51c",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFEDF5FF},
+                            "location":{
+                              "x":299,
+                              "y":32},
+                            "size":{
+                              "width":155,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u19.png"}},
+{
+                      "id":"556897885b674df99832a9acc757cc29",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":299,
+                          "y":80},
+                        "size":{
+                          "width":155,
+                          "height":34},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"2c21ed48ea4d4e4fb8d3eb474d1834c5",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":299,
+                              "y":80},
+                            "size":{
+                              "width":155,
+                              "height":34},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u29.png"}},
+{
+                      "id":"a93a93f2753d4dd98d710f7b21e5c01e",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFEDF5FF},
+                        "location":{
+                          "x":299,
+                          "y":114},
+                        "size":{
+                          "width":155,
+                          "height":36},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"02c96531f98d407e85a54b0240da7616",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFEDF5FF},
+                            "location":{
+                              "x":299,
+                              "y":114},
+                            "size":{
+                              "width":155,
+                              "height":36},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u39.png"}},
+{
+                      "id":"4aca65c23cf048e19e08ebb7d58fca41",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000,
+                          "opacity":1},
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":454,
+                          "y":0},
+                        "size":{
+                          "width":118,
+                          "height":32},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"561cc3b2b2ff4de0a4c479adeeec92df",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":454,
+                              "y":0},
+                            "size":{
+                              "width":118,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u11.png"}},
+{
+                      "id":"f2345b752573461c9be488cd24fc981a",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000,
+                          "opacity":1},
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFEDF5FF},
+                        "location":{
+                          "x":454,
+                          "y":32},
+                        "size":{
+                          "width":118,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"38adbd4a662a4194918c06bc61deef6a",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFEDF5FF},
+                            "location":{
+                              "x":454,
+                              "y":32},
+                            "size":{
+                              "width":118,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u21.png"}},
+{
+                      "id":"72f364f6e2244838a801a0f88e74f892",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000,
+                          "opacity":1},
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":454,
+                          "y":80},
+                        "size":{
+                          "width":118,
+                          "height":34},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"d25d207b43af49ada3d95744d5a9103c",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":454,
+                              "y":80},
+                            "size":{
+                              "width":118,
+                              "height":34},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u31.png"}},
+{
+                      "id":"3355ac1fd5a841deae8a5b302a85a770",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFEDF5FF},
+                        "location":{
+                          "x":454,
+                          "y":114},
+                        "size":{
+                          "width":118,
+                          "height":36},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"2a52270616184767b77aadd6854bea39",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFEDF5FF},
+                            "location":{
+                              "x":454,
+                              "y":114},
+                            "size":{
+                              "width":118,
+                              "height":36},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u41.png"}},
+{
+                      "id":"b5a4e29e4b724ec39881c3de3dd18fec",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000,
+                          "opacity":1},
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":572,
+                          "y":0},
+                        "size":{
+                          "width":168,
+                          "height":32},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"09576cc76fcf4c13ae7e7fdf17ee260b",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":572,
+                              "y":0},
+                            "size":{
+                              "width":168,
+                              "height":32},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u13.png"}},
+{
+                      "id":"334e560c97534ea29415f25675bddcf6",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000,
+                          "opacity":1},
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFEDF5FF},
+                        "location":{
+                          "x":572,
+                          "y":32},
+                        "size":{
+                          "width":168,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"edfa8046e56343a4879a7779f5c2f6d8",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFEDF5FF},
+                            "location":{
+                              "x":572,
+                              "y":32},
+                            "size":{
+                              "width":168,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u23.png"}},
+{
+                      "id":"1ca6db1af45b49e1bd6d05fa72ce99d5",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF000000,
+                          "opacity":1},
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":572,
+                          "y":80},
+                        "size":{
+                          "width":168,
+                          "height":34},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"1f4c1212c86c4b56b4d890624cb2285e",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "location":{
+                              "x":572,
+                              "y":80},
+                            "size":{
+                              "width":168,
+                              "height":34},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u33.png"}},
+{
+                      "id":"7e77d12d6ab2430da7eb4d503761bb0c",
+                      "label":"",
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"tableCell",
+                      "styleType":"tableCell",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center",
+                        "verticalAlignment":"middle",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFEDF5FF},
+                        "location":{
+                          "x":572,
+                          "y":114},
+                        "size":{
+                          "width":168,
+                          "height":36},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF}},
+                      "adaptiveStyles":{
+},
+                      "objects":[{
+                          "id":"434791d8fd224ddcb7d18d900891b891",
+                          "label":"",
+                          "isContained":true,
+                          "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                          "type":"richTextPanel",
+                          "styleType":"paragraph",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"center",
+                            "verticalAlignment":"middle",
+                            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFFEDF5FF},
+                            "location":{
+                              "x":572,
+                              "y":114},
+                            "size":{
+                              "width":168,
+                              "height":36},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF}},
+                          "adaptiveStyles":{
+}}],
+                      "images":{
+                        "normal~":"images/会员等级管理/u43.png"}}]},
+{
+                  "id":"fc01e89b31114afca8ba9486aa6164c6",
+                  "label":"",
+                  "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1},
+                    "location":{
+                      "x":610,
+                      "y":10},
+                    "size":{
+                      "width":27,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"126ce1b19aa14a1d9e958197ca4fcbf4",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF0000FF,
+                          "opacity":1},
+                        "location":{
+                          "x":610,
+                          "y":10},
+                        "size":{
+                          "width":27,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"显示 dialog",
+                              "objectsToFades":[{
+                                  "objectPath":["d1f4247b1b8d493baed2641ae9392049"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"24d053a5a3b84a0192ca5f3db37dce84",
+                  "label":"",
+                  "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":658,
+                      "y":10},
+                    "size":{
+                      "width":42,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"35c3e5d7bc0e4401ace2f2d7ea6d3446",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":658,
+                          "y":10},
+                        "size":{
+                          "width":42,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"7ca827721ed1467e842b4b953f90bad1",
+                  "label":"",
+                  "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":610,
+                      "y":45},
+                    "size":{
+                      "width":27,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"ea63064d61fb46cfbb2377cd99d28a3c",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":610,
+                          "y":45},
+                        "size":{
+                          "width":27,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"c495067c4a074a9e9ac7b2e3fdee4eae",
+                  "label":"",
+                  "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":658,
+                      "y":45},
+                    "size":{
+                      "width":42,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"5d680d8db28a45a692cb7fdc522d77b7",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":658,
+                          "y":45},
+                        "size":{
+                          "width":42,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"0f25cce3ae054d6cadb39cf3edb3e103",
+                  "label":"",
+                  "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":610,
+                      "y":86},
+                    "size":{
+                      "width":27,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"86d5ce76a57f45b0acb84c4e1d696d73",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":610,
+                          "y":86},
+                        "size":{
+                          "width":27,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"08b4d1ff6d6b48bb99a131754211744e",
+                  "label":"",
+                  "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":658,
+                      "y":86},
+                    "size":{
+                      "width":42,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7becb726fcb34c2db43909e3c48f4bf7",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":658,
+                          "y":86},
+                        "size":{
+                          "width":42,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"59bad7c4387d4be18847ba40f196780e",
+                  "label":"",
+                  "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":610,
+                      "y":124},
+                    "size":{
+                      "width":27,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"5ed048c9f27b4b07b5ec9634ef6da7f8",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":610,
+                          "y":124},
+                        "size":{
+                          "width":27,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"862b01ed30274e2c9633cd24b1c37d18",
+                  "label":"",
+                  "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":658,
+                      "y":124},
+                    "size":{
+                      "width":42,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f1a6c9e6e4d4469bae4af629864d9f2e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"822d881b9c574a05804555d2bc859f27",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":658,
+                          "y":124},
+                        "size":{
+                          "width":42,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}}]}]},
+{
+          "id":"981dca8bf8774aa9b998f5183359771b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontWeight":"bold",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFF8F8F8},
+{
+                  "color":0xFFF8F8F8},
+{
+                  "color":0xFFDCDCDE},
+{
+                  "color":0xFFDCDCDE}]},
+            "location":{
+              "x":28,
+              "y":90},
+            "size":{
+              "width":52,
+              "height":33},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5ab48c7ceca24555b7c764745dca17a8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontWeight":"bold",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFF8F8F8},
+{
+                      "color":0xFFF8F8F8},
+{
+                      "color":0xFFDCDCDE},
+{
+                      "color":0xFFDCDCDE}]},
+                "location":{
+                  "x":28,
+                  "y":90},
+                "size":{
+                  "width":52,
+                  "height":33},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/订单列表/u80.png"}},
+{
+          "id":"cd1c2a8b1386414ba49fa7b47f41ead6",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontWeight":"bold",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFF8F8F8},
+{
+                  "color":0xFFF8F8F8},
+{
+                  "color":0xFFDCDCDE},
+{
+                  "color":0xFFDCDCDE}]},
+            "location":{
+              "x":80,
+              "y":90},
+            "size":{
+              "width":256,
+              "height":33},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a74bb6c6d50a4d349dbc3c2c120c6aa5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontWeight":"bold",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFF8F8F8},
+{
+                      "color":0xFFF8F8F8},
+{
+                      "color":0xFFDCDCDE},
+{
+                      "color":0xFFDCDCDE}]},
+                "location":{
+                  "x":80,
+                  "y":90},
+                "size":{
+                  "width":256,
+                  "height":33},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/会员等级管理/u63.png"}},
+{
+          "id":"f6265d0c905b4465b0cd57b6e207ec1f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontWeight":"bold",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFF8F8F8},
+{
+                  "color":0xFFF8F8F8},
+{
+                  "color":0xFFDCDCDE},
+{
+                  "color":0xFFDCDCDE}]},
+            "location":{
+              "x":480,
+              "y":90},
+            "size":{
+              "width":138,
+              "height":33},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"941aed10ac8c45bd885edab955650423",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontWeight":"bold",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFF8F8F8},
+{
+                      "color":0xFFF8F8F8},
+{
+                      "color":0xFFDCDCDE},
+{
+                      "color":0xFFDCDCDE}]},
+                "location":{
+                  "x":480,
+                  "y":90},
+                "size":{
+                  "width":138,
+                  "height":33},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/会员等级管理/u65.png"}},
+{
+          "id":"2470aeacdf7b47dc8a28bb7c07b20ed0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontWeight":"bold",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFF8F8F8},
+{
+                  "color":0xFFF8F8F8},
+{
+                  "color":0xFFDCDCDE},
+{
+                  "color":0xFFDCDCDE}]},
+            "location":{
+              "x":330,
+              "y":90},
+            "size":{
+              "width":163,
+              "height":33},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d4df314e3064432883d0aecf962afdb7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontWeight":"bold",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFF8F8F8},
+{
+                      "color":0xFFF8F8F8},
+{
+                      "color":0xFFDCDCDE},
+{
+                      "color":0xFFDCDCDE}]},
+                "location":{
+                  "x":330,
+                  "y":90},
+                "size":{
+                  "width":163,
+                  "height":33},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/会员等级管理/u67.png"}},
+{
+          "id":"a443fbc12f6b468187ebc070cc489d4c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontWeight":"bold",
+            "baseStyle":"627587b6038d43cca051c114ac41ad32",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFF8F8F8},
+{
+                  "color":0xFFF8F8F8},
+{
+                  "color":0xFFDCDCDE},
+{
+                  "color":0xFFDCDCDE}]},
+            "location":{
+              "x":610,
+              "y":90},
+            "size":{
+              "width":180,
+              "height":33},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e1befaadc9784c879f4a27ca379a7737",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontWeight":"bold",
+                "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFF8F8F8},
+{
+                      "color":0xFFF8F8F8},
+{
+                      "color":0xFFDCDCDE},
+{
+                      "color":0xFFDCDCDE}]},
+                "location":{
+                  "x":610,
+                  "y":90},
+                "size":{
+                  "width":180,
+                  "height":33},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/会员等级管理/u69.png"}},
+{
+          "id":"d1f4247b1b8d493baed2641ae9392049",
+          "label":"dialog",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":90,
+              "y":110},
+            "size":{
+              "width":540,
+              "height":330},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"4bf5f74fdeb348b19929fcc454066bf2",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"1d14aa47f801495ea48fc29e0786f7dc",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":10,
+                      "y":10},
+                    "size":{
+                      "width":540,
+                      "height":290},
+                    "borderWidth":"2",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFD7D7D7},
+                    "cornerRadiusTopLeft":"8",
+                    "outerShadow":{
+                      "on":true,
+                      "offsetX":11,
+                      "offsetY":11,
+                      "blurRadius":5,
+                      "color":{
+                        "r":215,
+                        "g":215,
+                        "b":215,
+                        "a":0.6}}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"755e0da1c96344f58e141575d7f9884d",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":10,
+                          "y":10},
+                        "size":{
+                          "width":540,
+                          "height":290},
+                        "borderWidth":"2",
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFD7D7D7},
+                        "cornerRadiusTopLeft":"8",
+                        "outerShadow":{
+                          "on":true,
+                          "offsetX":11,
+                          "offsetY":11,
+                          "blurRadius":5,
+                          "color":{
+                            "r":215,
+                            "g":215,
+                            "b":215,
+                            "a":0.6}}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/会员等级管理/u72.png"}},
+{
+                  "id":"ca27af85dda0492e87e226d7c8974dd3",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":20,
+                      "y":17},
+                    "size":{
+                      "width":20,
+                      "height":20},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7c7dbdfbee9e40898e7e365c0ae5fafb",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":20,
+                          "y":17},
+                        "size":{
+                          "width":20,
+                          "height":20},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/我的订单/u186.png"}},
+{
+                  "id":"c6d5584b9ffa43c7835ce5951deb11b6",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":513,
+                      "y":18},
+                    "size":{
+                      "width":20,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"522fce60ade74866b1f6787475ad8095",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":513,
+                          "y":18},
+                        "size":{
+                          "width":20,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 dialog 淡入淡出 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["d1f4247b1b8d493baed2641ae9392049"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/我的订单/u188.png"}},
+{
+                  "id":"69d139d542d64f82a4b8bf3c29b17482",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"horizontalLine",
+                  "styleType":"horizontalLine",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":14,
+                      "y":40},
+                    "size":{
+                      "width":523,
+                      "height":10},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF999999}},
+                  "adaptiveStyles":{
+},
+                  "images":{
+                    "start~":"resources/images/transparent.gif",
+                    "end~":"resources/images/transparent.gif",
+                    "line~":"images/我的订单/u190_line.png"}},
+{
+                  "id":"51a5a5a860a347edbb7e9403e62e9ce9",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xB20066FF},
+                    "location":{
+                      "x":370,
+                      "y":250},
+                    "size":{
+                      "width":60,
+                      "height":30},
+                    "cornerRadiusTopLeft":"4"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a70052955edd46e495dc65b67d5ed587",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xB20066FF},
+                        "location":{
+                          "x":370,
+                          "y":250},
+                        "size":{
+                          "width":60,
+                          "height":30},
+                        "cornerRadiusTopLeft":"4"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 dialog 淡入淡出 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["d1f4247b1b8d493baed2641ae9392049"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/我的投诉建议/u141.png"}},
+{
+                  "id":"00af3049fad94ea19351b8794ad39460",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xB20066FF},
+                    "location":{
+                      "x":450,
+                      "y":250},
+                    "size":{
+                      "width":60,
+                      "height":30},
+                    "cornerRadiusTopLeft":"4"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c029ce60d5b84494861313c435c6dda9",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xB20066FF},
+                        "location":{
+                          "x":450,
+                          "y":250},
+                        "size":{
+                          "width":60,
+                          "height":30},
+                        "cornerRadiusTopLeft":"4"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 dialog 淡入淡出 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["d1f4247b1b8d493baed2641ae9392049"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/我的投诉建议/u141.png"}},
+{
+                  "id":"a6934205917244c5a3b84ae4323181d8",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":50,
+                      "y":20},
+                    "size":{
+                      "width":105,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"21fd3753eec74742b30babaf4e5218f0",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":50,
+                          "y":20},
+                        "size":{
+                          "width":105,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"3977780e3154483e992bfab4f0594806",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":86,
+                      "y":106},
+                    "size":{
+                      "width":150,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"47ba807fb31f4d7da2abeb4c0e322114",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":86,
+                          "y":106},
+                        "size":{
+                          "width":150,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"921f9c7596634fecb105ab67bace5038",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":86,
+                      "y":148},
+                    "size":{
+                      "width":150,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"2e48d8f482f84889aee8418e6db1ee6e",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":86,
+                          "y":148},
+                        "size":{
+                          "width":150,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"fcaa37d40d234dc7b160b6efe0e9f11b",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":86,
+                      "y":194},
+                    "size":{
+                      "width":150,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c7853ee69ca14c658496213877502023",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":86,
+                          "y":194},
+                        "size":{
+                          "width":150,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"cdf41d884d7247d9b55f8135a7d0934e",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"textBox",
+                  "styleType":"textBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":187,
+                      "y":144},
+                    "size":{
+                      "width":180,
+                      "height":25}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"78fd19bf71f0432b90b4725e53d8ce02",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"textBox",
+                  "styleType":"textBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":187,
+                      "y":190},
+                    "size":{
+                      "width":180,
+                      "height":25}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"efa1cfa1adec416a8583d992944d1d17",
+                  "label":"",
+                  "parentDynamicPanel":"d1f4247b1b8d493baed2641ae9392049",
+                  "type":"textBox",
+                  "styleType":"textBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":187,
+                      "y":101.5},
+                    "size":{
+                      "width":180,
+                      "height":25}},
+                  "adaptiveStyles":{
+}}]}]},
+{
+          "id":"c319fa2f81cd44418b9afce6aac542b9",
+          "label":"dialog2",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":80,
+              "y":80},
+            "size":{
+              "width":540,
+              "height":330},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"562da0abc95b44dbad5225a48a24150c",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"6db7c17a215b48b0bcd3033e97efbcf6",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":10,
+                      "y":10},
+                    "size":{
+                      "width":540,
+                      "height":290},
+                    "borderWidth":"2",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFD7D7D7},
+                    "cornerRadiusTopLeft":"8",
+                    "outerShadow":{
+                      "on":true,
+                      "offsetX":11,
+                      "offsetY":11,
+                      "blurRadius":5,
+                      "color":{
+                        "r":215,
+                        "g":215,
+                        "b":215,
+                        "a":0.6}}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9d0275d12c744d4a8b014f1636c44446",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":10,
+                          "y":10},
+                        "size":{
+                          "width":540,
+                          "height":290},
+                        "borderWidth":"2",
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFD7D7D7},
+                        "cornerRadiusTopLeft":"8",
+                        "outerShadow":{
+                          "on":true,
+                          "offsetX":11,
+                          "offsetY":11,
+                          "blurRadius":5,
+                          "color":{
+                            "r":215,
+                            "g":215,
+                            "b":215,
+                            "a":0.6}}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/会员等级管理/u72.png"}},
+{
+                  "id":"d5feee0425d7484081d6776825d4099d",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":20,
+                      "y":17},
+                    "size":{
+                      "width":20,
+                      "height":20},
+                    "cornerRadiusTopLeft":"11"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"37fd115531cf42a7bf384cff1626bc4d",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":20,
+                          "y":17},
+                        "size":{
+                          "width":20,
+                          "height":20},
+                        "cornerRadiusTopLeft":"11"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/我的订单/u186.png"}},
+{
+                  "id":"13408813837d4240b181eb6809c2e06f",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"imageBox",
+                  "styleType":"imageBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                    "location":{
+                      "x":513,
+                      "y":18},
+                    "size":{
+                      "width":20,
+                      "height":20}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"33a5409cbd814e9eb1d3e47dc5ec4826",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+                        "location":{
+                          "x":513,
+                          "y":18},
+                        "size":{
+                          "width":20,
+                          "height":20}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 dialog2 淡入淡出 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["c319fa2f81cd44418b9afce6aac542b9"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/我的订单/u188.png"}},
+{
+                  "id":"c07f6149f41c40dcb41f3c756b877773",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"horizontalLine",
+                  "styleType":"horizontalLine",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":14,
+                      "y":40},
+                    "size":{
+                      "width":523,
+                      "height":10},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF999999}},
+                  "adaptiveStyles":{
+},
+                  "images":{
+                    "start~":"resources/images/transparent.gif",
+                    "end~":"resources/images/transparent.gif",
+                    "line~":"images/我的订单/u190_line.png"}},
+{
+                  "id":"88ba92170d6148b78f80b18494b7d0b8",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xB20066FF},
+                    "location":{
+                      "x":370,
+                      "y":250},
+                    "size":{
+                      "width":60,
+                      "height":30},
+                    "cornerRadiusTopLeft":"4"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9d97192f5d494e76a28f2b654ec0b3c7",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xB20066FF},
+                        "location":{
+                          "x":370,
+                          "y":250},
+                        "size":{
+                          "width":60,
+                          "height":30},
+                        "cornerRadiusTopLeft":"4"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 dialog2 淡入淡出 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["c319fa2f81cd44418b9afce6aac542b9"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/我的投诉建议/u141.png"}},
+{
+                  "id":"b51c94b6424e499baad5273914b0decc",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xB20066FF},
+                    "location":{
+                      "x":450,
+                      "y":250},
+                    "size":{
+                      "width":60,
+                      "height":30},
+                    "cornerRadiusTopLeft":"4"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"84b0c74727ed42a89c6889ddcd09e884",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xB20066FF},
+                        "location":{
+                          "x":450,
+                          "y":250},
+                        "size":{
+                          "width":60,
+                          "height":30},
+                        "cornerRadiusTopLeft":"4"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 dialog2 淡入淡出 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["c319fa2f81cd44418b9afce6aac542b9"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"fade",
+                                      "duration":500,
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/我的投诉建议/u141.png"}},
+{
+                  "id":"8bbfcf799f1948dcb0e194330e976b5a",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":50,
+                      "y":20},
+                    "size":{
+                      "width":105,
+                      "height":16}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"de1b99cad311456eb31d46a744b141b5",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":50,
+                          "y":20},
+                        "size":{
+                          "width":105,
+                          "height":16}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"d1f9522cf6c64ba19217fc34334670e4",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":86,
+                      "y":106},
+                    "size":{
+                      "width":150,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"ad6107bb78b44675b866b21ad987c981",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":86,
+                          "y":106},
+                        "size":{
+                          "width":150,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"9d1edc67dfd346779e2fa6992ccef3b1",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":86,
+                      "y":148},
+                    "size":{
+                      "width":150,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"fb31ff5d7b994568a7ded53a7be86896",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":86,
+                          "y":148},
+                        "size":{
+                          "width":150,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"6160c9c341c9489588af609530864497",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":86,
+                      "y":194},
+                    "size":{
+                      "width":150,
+                      "height":16},
+                    "rotation":"0",
+                    "textRotation":"0"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e722f8f1246f4da1becd06b6b013ba29",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":86,
+                          "y":194},
+                        "size":{
+                          "width":150,
+                          "height":16},
+                        "rotation":"0",
+                        "textRotation":"0"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"5ef5f2c561c84f56b27a133a5da4c272",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"textBox",
+                  "styleType":"textBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":187,
+                      "y":144},
+                    "size":{
+                      "width":180,
+                      "height":25}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"03c482b7916b45f6a1944d07237a20d5",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"textBox",
+                  "styleType":"textBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":187,
+                      "y":190},
+                    "size":{
+                      "width":180,
+                      "height":25}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"ad1820497f0f4bd0807fa8eededcc6c7",
+                  "label":"",
+                  "parentDynamicPanel":"c319fa2f81cd44418b9afce6aac542b9",
+                  "type":"textBox",
+                  "styleType":"textBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":187,
+                      "y":101.5},
+                    "size":{
+                      "width":180,
+                      "height":25}},
+                  "adaptiveStyles":{
+}}]}]},
+{
+          "id":"196dcaf6b14a4500bca91d4c0684babb",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":680,
+              "y":55},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 dialog2",
+                      "objectsToFades":[{
+                          "objectPath":["c319fa2f81cd44418b9afce6aac542b9"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "ff2015acd40d429096545ace47184f09":{
+      "scriptId":"u0"},
+    "269dc5bcaf3941aa89a55667ab6d5cbc":{
+      "scriptId":"u1"},
+    "b78c2de27b13428f8758bf1791d947e6":{
+      "scriptId":"u2"},
+    "822d881b9c574a05804555d2bc859f27":{
+      "scriptId":"u3"},
+    "c2c84ce7a4e14a2abccefe6438110286":{
+      "scriptId":"u4"},
+    "851f524bae9841e9a2144360a47395fe":{
+      "scriptId":"u5"},
+    "77b2d317559b44a1990143ef38f5c118":{
+      "scriptId":"u6"},
+    "d305ac41999b443e8deadf2b88a0fb16":{
+      "scriptId":"u7"},
+    "b427cdd2a7234de4982a849e4765535f":{
+      "scriptId":"u8"},
+    "aa7ff6bf837e4a3b964d8a528e468ec6":{
+      "scriptId":"u9"},
+    "a1b0cd765be54292bb259b9fdde67fe2":{
+      "scriptId":"u10"},
+    "4aca65c23cf048e19e08ebb7d58fca41":{
+      "scriptId":"u11"},
+    "561cc3b2b2ff4de0a4c479adeeec92df":{
+      "scriptId":"u12"},
+    "b5a4e29e4b724ec39881c3de3dd18fec":{
+      "scriptId":"u13"},
+    "09576cc76fcf4c13ae7e7fdf17ee260b":{
+      "scriptId":"u14"},
+    "bbd985e7ad5e43f79b32d839c47ccab7":{
+      "scriptId":"u15"},
+    "4d7f09b89f6247019a49488c3827c7b9":{
+      "scriptId":"u16"},
+    "63228ae374af4608a3fa029b87e28fe5":{
+      "scriptId":"u17"},
+    "dd138e10c7444475b22764bac1a9f65d":{
+      "scriptId":"u18"},
+    "90da0e80d2524bcbab251f64941c468f":{
+      "scriptId":"u19"},
+    "4a37c260376f4d87ae844153959af51c":{
+      "scriptId":"u20"},
+    "f2345b752573461c9be488cd24fc981a":{
+      "scriptId":"u21"},
+    "38adbd4a662a4194918c06bc61deef6a":{
+      "scriptId":"u22"},
+    "334e560c97534ea29415f25675bddcf6":{
+      "scriptId":"u23"},
+    "edfa8046e56343a4879a7779f5c2f6d8":{
+      "scriptId":"u24"},
+    "e14dc92a2b3c4d91afd49703463b514d":{
+      "scriptId":"u25"},
+    "7c12478e0c344dceb356821fa92fbc8d":{
+      "scriptId":"u26"},
+    "36470d16439940a8b2c3175ca8e7f13b":{
+      "scriptId":"u27"},
+    "2c04861447f34867ba37773258f530d1":{
+      "scriptId":"u28"},
+    "556897885b674df99832a9acc757cc29":{
+      "scriptId":"u29"},
+    "2c21ed48ea4d4e4fb8d3eb474d1834c5":{
+      "scriptId":"u30"},
+    "72f364f6e2244838a801a0f88e74f892":{
+      "scriptId":"u31"},
+    "d25d207b43af49ada3d95744d5a9103c":{
+      "scriptId":"u32"},
+    "1ca6db1af45b49e1bd6d05fa72ce99d5":{
+      "scriptId":"u33"},
+    "1f4c1212c86c4b56b4d890624cb2285e":{
+      "scriptId":"u34"},
+    "f27dd420f70e43b984caf6951fc4cc5e":{
+      "scriptId":"u35"},
+    "23113c0c51024d04804a34f157c01bd6":{
+      "scriptId":"u36"},
+    "02889065cb144e549e8c52c6754cc9e0":{
+      "scriptId":"u37"},
+    "274d8c31fd7e428cbc713ba1f78d1b92":{
+      "scriptId":"u38"},
+    "a93a93f2753d4dd98d710f7b21e5c01e":{
+      "scriptId":"u39"},
+    "02c96531f98d407e85a54b0240da7616":{
+      "scriptId":"u40"},
+    "3355ac1fd5a841deae8a5b302a85a770":{
+      "scriptId":"u41"},
+    "2a52270616184767b77aadd6854bea39":{
+      "scriptId":"u42"},
+    "7e77d12d6ab2430da7eb4d503761bb0c":{
+      "scriptId":"u43"},
+    "434791d8fd224ddcb7d18d900891b891":{
+      "scriptId":"u44"},
+    "fc01e89b31114afca8ba9486aa6164c6":{
+      "scriptId":"u45"},
+    "126ce1b19aa14a1d9e958197ca4fcbf4":{
+      "scriptId":"u46"},
+    "24d053a5a3b84a0192ca5f3db37dce84":{
+      "scriptId":"u47"},
+    "35c3e5d7bc0e4401ace2f2d7ea6d3446":{
+      "scriptId":"u48"},
+    "7ca827721ed1467e842b4b953f90bad1":{
+      "scriptId":"u49"},
+    "ea63064d61fb46cfbb2377cd99d28a3c":{
+      "scriptId":"u50"},
+    "c495067c4a074a9e9ac7b2e3fdee4eae":{
+      "scriptId":"u51"},
+    "5d680d8db28a45a692cb7fdc522d77b7":{
+      "scriptId":"u52"},
+    "0f25cce3ae054d6cadb39cf3edb3e103":{
+      "scriptId":"u53"},
+    "86d5ce76a57f45b0acb84c4e1d696d73":{
+      "scriptId":"u54"},
+    "08b4d1ff6d6b48bb99a131754211744e":{
+      "scriptId":"u55"},
+    "7becb726fcb34c2db43909e3c48f4bf7":{
+      "scriptId":"u56"},
+    "59bad7c4387d4be18847ba40f196780e":{
+      "scriptId":"u57"},
+    "5ed048c9f27b4b07b5ec9634ef6da7f8":{
+      "scriptId":"u58"},
+    "862b01ed30274e2c9633cd24b1c37d18":{
+      "scriptId":"u59"},
+    "f1a6c9e6e4d4469bae4af629864d9f2e":{
+      "scriptId":"u60"},
+    "981dca8bf8774aa9b998f5183359771b":{
+      "scriptId":"u61"},
+    "5ab48c7ceca24555b7c764745dca17a8":{
+      "scriptId":"u62"},
+    "cd1c2a8b1386414ba49fa7b47f41ead6":{
+      "scriptId":"u63"},
+    "a74bb6c6d50a4d349dbc3c2c120c6aa5":{
+      "scriptId":"u64"},
+    "f6265d0c905b4465b0cd57b6e207ec1f":{
+      "scriptId":"u65"},
+    "941aed10ac8c45bd885edab955650423":{
+      "scriptId":"u66"},
+    "2470aeacdf7b47dc8a28bb7c07b20ed0":{
+      "scriptId":"u67"},
+    "d4df314e3064432883d0aecf962afdb7":{
+      "scriptId":"u68"},
+    "a443fbc12f6b468187ebc070cc489d4c":{
+      "scriptId":"u69"},
+    "e1befaadc9784c879f4a27ca379a7737":{
+      "scriptId":"u70"},
+    "d1f4247b1b8d493baed2641ae9392049":{
+      "scriptId":"u71"},
+    "1d14aa47f801495ea48fc29e0786f7dc":{
+      "scriptId":"u72"},
+    "755e0da1c96344f58e141575d7f9884d":{
+      "scriptId":"u73"},
+    "ca27af85dda0492e87e226d7c8974dd3":{
+      "scriptId":"u74"},
+    "7c7dbdfbee9e40898e7e365c0ae5fafb":{
+      "scriptId":"u75"},
+    "c6d5584b9ffa43c7835ce5951deb11b6":{
+      "scriptId":"u76"},
+    "522fce60ade74866b1f6787475ad8095":{
+      "scriptId":"u77"},
+    "69d139d542d64f82a4b8bf3c29b17482":{
+      "scriptId":"u78"},
+    "51a5a5a860a347edbb7e9403e62e9ce9":{
+      "scriptId":"u79"},
+    "a70052955edd46e495dc65b67d5ed587":{
+      "scriptId":"u80"},
+    "00af3049fad94ea19351b8794ad39460":{
+      "scriptId":"u81"},
+    "c029ce60d5b84494861313c435c6dda9":{
+      "scriptId":"u82"},
+    "a6934205917244c5a3b84ae4323181d8":{
+      "scriptId":"u83"},
+    "21fd3753eec74742b30babaf4e5218f0":{
+      "scriptId":"u84"},
+    "3977780e3154483e992bfab4f0594806":{
+      "scriptId":"u85"},
+    "47ba807fb31f4d7da2abeb4c0e322114":{
+      "scriptId":"u86"},
+    "921f9c7596634fecb105ab67bace5038":{
+      "scriptId":"u87"},
+    "2e48d8f482f84889aee8418e6db1ee6e":{
+      "scriptId":"u88"},
+    "fcaa37d40d234dc7b160b6efe0e9f11b":{
+      "scriptId":"u89"},
+    "c7853ee69ca14c658496213877502023":{
+      "scriptId":"u90"},
+    "cdf41d884d7247d9b55f8135a7d0934e":{
+      "scriptId":"u91"},
+    "78fd19bf71f0432b90b4725e53d8ce02":{
+      "scriptId":"u92"},
+    "efa1cfa1adec416a8583d992944d1d17":{
+      "scriptId":"u93"},
+    "c319fa2f81cd44418b9afce6aac542b9":{
+      "scriptId":"u94"},
+    "6db7c17a215b48b0bcd3033e97efbcf6":{
+      "scriptId":"u95"},
+    "9d0275d12c744d4a8b014f1636c44446":{
+      "scriptId":"u96"},
+    "d5feee0425d7484081d6776825d4099d":{
+      "scriptId":"u97"},
+    "37fd115531cf42a7bf384cff1626bc4d":{
+      "scriptId":"u98"},
+    "13408813837d4240b181eb6809c2e06f":{
+      "scriptId":"u99"},
+    "33a5409cbd814e9eb1d3e47dc5ec4826":{
+      "scriptId":"u100"},
+    "c07f6149f41c40dcb41f3c756b877773":{
+      "scriptId":"u101"},
+    "88ba92170d6148b78f80b18494b7d0b8":{
+      "scriptId":"u102"},
+    "9d97192f5d494e76a28f2b654ec0b3c7":{
+      "scriptId":"u103"},
+    "b51c94b6424e499baad5273914b0decc":{
+      "scriptId":"u104"},
+    "84b0c74727ed42a89c6889ddcd09e884":{
+      "scriptId":"u105"},
+    "8bbfcf799f1948dcb0e194330e976b5a":{
+      "scriptId":"u106"},
+    "de1b99cad311456eb31d46a744b141b5":{
+      "scriptId":"u107"},
+    "d1f9522cf6c64ba19217fc34334670e4":{
+      "scriptId":"u108"},
+    "ad6107bb78b44675b866b21ad987c981":{
+      "scriptId":"u109"},
+    "9d1edc67dfd346779e2fa6992ccef3b1":{
+      "scriptId":"u110"},
+    "fb31ff5d7b994568a7ded53a7be86896":{
+      "scriptId":"u111"},
+    "6160c9c341c9489588af609530864497":{
+      "scriptId":"u112"},
+    "e722f8f1246f4da1becd06b6b013ba29":{
+      "scriptId":"u113"},
+    "5ef5f2c561c84f56b27a133a5da4c272":{
+      "scriptId":"u114"},
+    "03c482b7916b45f6a1944d07237a20d5":{
+      "scriptId":"u115"},
+    "ad1820497f0f4bd0807fa8eededcc6c7":{
+      "scriptId":"u116"},
+    "196dcaf6b14a4500bca91d4c0684babb":{
+      "scriptId":"u117"}}});

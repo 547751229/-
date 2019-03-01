@@ -1,0 +1,49 @@
+﻿$axure.loadCurrentPage({
+  "url":"客服账号管理.html",
+  "generationDate":new Date(1386236691368.49),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"aaaaaaaa"],
+  "page":{
+    "packageId":"1ad92e83b2d7417eb97a3b59e2c3607a",
+    "type":"Axure:Page",
+    "name":"客服账号管理",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"用例 1",
+            "isNewIfGroup":false,
+            "actions":[{
+                "action":"linkWindow",
+                "description":"在 当前窗口 打开 账号列表",
+                "target":{
+                  "targetType":"page",
+                  "url":"账号列表.html",
+                  "includeVariables":true},
+                "linkType":"current"}]}]}},
+    "diagram":{
+      "objects":[]}},
+  "masters":{
+},
+  "objectPaths":{
+}});
